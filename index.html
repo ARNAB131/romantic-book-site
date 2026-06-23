@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>For My Babe Girl</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Cormorant+Garamond:wght@400;500;700&family=Great+Vibes&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="stars"></div>
+
+  <main class="scene">
+    <section id="lockedBook" class="book locked">
+      <div class="cover">
+        <div class="ornament top">❦</div>
+
+        <h1>For My<br>Babe Girl</h1>
+        <p>The Moon Prince &amp; The Koala Queen</p>
+
+        <div class="lock-panel">
+          <label for="password">What you call me?</label>
+          <input id="password" type="password" autocomplete="off" placeholder="Answer here" />
+          <button id="unlockBtn">Open the Book</button>
+          <small id="error"></small>
+        </div>
+
+        <div class="ornament bottom">❦</div>
+      </div>
+    </section>
+
+    <section id="openBook" class="open-book hidden">
+      <div class="book-frame">
+        <button id="prevBtn" class="nav prev">‹</button>
+        <article class="page" id="page"></article>
+        <button id="nextBtn" class="nav next">›</button>
+      </div>
+
+      <div class="progress">
+        <span id="pageNo"></span>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
