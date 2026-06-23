@@ -363,7 +363,7 @@ function startMusic() {
   if (music) return;
 
   music = new Audio(
-    "assets/romantic-music.mp3"
+    "assets/Khat Navjot Ahuja 128 Kbps.mp3"
   );
 
   music.loop = true;
