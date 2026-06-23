@@ -1,0 +1,13 @@
+{
+  "name": "for-my-babe-girl-book",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "build": "echo 'Static site ready'",
+    "preview": "vite --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
