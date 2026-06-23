@@ -1,5 +1,9 @@
 const PASSWORD = "kutta";
 
+/* -------------------------
+   IMAGE FILES
+-------------------------- */
+
 const images = [
   "071B5802-912E-4DAA-BF68-2D3089B74383.jpeg",
   "345F95CD-D99E-4E33-8595-BBE7C96049E2.jpeg",
@@ -13,543 +17,546 @@ const images = [
   "5554D13A-8F01-44B1-9EEB-8582C8196B4E.jpeg"
 ];
 
+/* -------------------------
+   QUOTES
+-------------------------- */
+
 const quotes = [
-  "In every mirror of the universe, my heart only searches for you.",
-  "You are the soft moonlight that turns my ordinary nights into magic.",
-  "My Koala Queen, even silence becomes poetry when it belongs to you.",
-  "If love had a royal color, it would wear your smile like red velvet.",
-  "You are not a chapter in my life; you are the whole enchanted book.",
-  "Where your curls fall, tiny galaxies learn how to dance.",
-  "Every silly joke I make is secretly trying to earn one more laugh from you.",
-  "You are my safest home, my cutest chaos, and my forever dream.",
-  "Even the stars get jealous when your eyes decide to shine.",
-  "For my babe girl: my today, my tomorrow, my moon, my forever."
+  "Every star in my sky shines because of you.",
+  "You are my favorite dream that never ends.",
+  "Home is wherever your smile exists.",
+  "The moon borrowed its beauty from your eyes.",
+  "In every lifetime, I would choose you again.",
+  "My heart learned the meaning of peace through you.",
+  "You are poetry written by the universe.",
+  "Your laughter is my favorite melody.",
+  "Even eternity feels short with you.",
+  "You are my once upon a time and my forever after."
 ];
 
-const story = `The Tale of Arnab and Kasturi: The Moon Prince and the Koala Queen
+/* -------------------------
+   STORY PAGES
+-------------------------- */
 
-Long ago, beyond the seven skies and beyond the stars that humans could see, there existed a magical kingdom called Yumekawa, the Land of Dreams. It was a place where clouds were made of cotton candy, rivers flowed with sparkling stardust, and tiny dragon kittens flew through the sky carrying lanterns shaped like hearts.
+const storyPages = [
 
-In the center of Yumekawa stood the magnificent Crystal Moon Castle, where lived a young prince named Arnab.
+`
+<h2>The Tale of Arnab and Kasturi</h2>
 
-Arnab was unlike any other prince. While other princes practiced sword fighting and dragon taming, Arnab spent his days helping injured fairy butterflies, feeding baby phoenixes, and writing silly poems about love. His silver-blue eyes shone like moonlight, and his heart was so kind that even the grumpiest dragons melted whenever he smiled.
+<p>
+The Moon Prince and the Koala Queen
+</p>
 
-Yet despite all the magic around him, Arnab felt something was missing.
+<p>
+Long ago, beyond the seven skies and beyond the stars that humans could see,
+there existed a magical kingdom called Yumekawa,
+the Land of Dreams.
+</p>
 
-Every night he would climb to the highest tower of the castle and gaze at the stars.
+<p>
+It was a place where clouds were made of cotton candy,
+rivers flowed with sparkling stardust,
+and tiny dragon kittens flew through the sky carrying lanterns shaped like hearts.
+</p>
+`,
 
-“I wonder,” he whispered one evening, “if somewhere out there exists someone who will understand my heart completely.”
+`
+<p>
+In the center of Yumekawa stood the magnificent Crystal Moon Castle,
+where lived a young prince named Arnab.
+</p>
 
-The Moon Goddess heard his wish.
+<p>
+Arnab was unlike any other prince.
+While other princes practiced sword fighting and dragon taming,
+Arnab spent his days helping injured fairy butterflies,
+feeding baby phoenixes,
+and writing silly poems about love.
+</p>
+`,
 
-Far away, in the enchanted Forest of Eternal Sakura, lived a beautiful girl named Kasturi, known throughout the magical world as the Koala Queen.
+`
+<p>
+Far away, in the enchanted Forest of Eternal Sakura,
+lived a beautiful girl named Kasturi,
+known throughout the magical world as the Koala Queen.
+</p>
 
-Kasturi possessed a rare gift.
-
+<p>
 Wherever she walked, flowers bloomed.
-
-When she laughed, tiny stars appeared in the sky.
-
+When she laughed, tiny stars appeared.
 When she sang, sleeping forests awakened.
+</p>
+`,
 
-And whenever she hugged someone, all sadness disappeared.
+`
+<p>
+One magical night,
+the Star of Soulmates split into two glowing fragments.
+</p>
 
-The animals of the forest adored her.
+<p>
+One landed beside Arnab.
+One landed beside Kasturi.
+</p>
 
-Baby foxes followed her.
+<p>
+Both were told to follow destiny.
+</p>
+`,
 
-Moon rabbits braided flowers into her hair.
+`
+<p>
+For seven days and seven nights they traveled.
+</p>
 
-Koalas rode on her shoulders like royal guards.
+<p>
+They crossed magical lands,
+floating kingdoms,
+and oceans of starlight.
+</p>
 
-Yet even Kasturi secretly felt lonely.
+<p>
+Eventually they met on the Bridge of Fate.
+</p>
+`,
 
-Every night she sat beneath the gigantic Sakura Tree of Destiny.
-
-“I wonder,” she whispered softly, “if somewhere there is someone who will love every part of me—my smiles, my fears, my dreams, and my flaws.”
-
-The Sakura Tree heard her wish.
-
-The Moon Goddess smiled.
-
-And destiny began to move.
-
-One magical night, a shooting star crossed the heavens.
-
-But this was no ordinary shooting star.
-
-It was the Star of Soulmates.
-
-The star split into two glowing pieces.
-
-One landed in Arnab’s room.
-
-The other landed beside Kasturi.
-
-Inside each fragment was a tiny glowing message.
-
-Arnab’s fragment read:
-
-“Follow the moonlight beyond the clouds to find your destiny.”
-
-Kasturi’s fragment read:
-
-“Follow the sakura petals carried by the wind to find your forever.”
-
-Without hesitation, both began their journeys.
-
-Arnab mounted his loyal Moon Dragon, Mochi.
-
-Kasturi climbed aboard her giant flying bunny, Pudding.
-
-For seven days and seven nights they traveled through magical lands.
-
-They crossed the Valley of Singing Whales.
-
-They passed the Floating Kingdom of Jellyfish Spirits.
-
-They flew over the Ocean of Liquid Starlight.
-
-And finally, both arrived at the same place.
-
-The legendary Bridge of Fate.
-
-The bridge stretched across the sky itself.
-
-Golden clouds drifted beneath it.
-
-Stars danced around it.
-
-And standing at opposite ends were Arnab and Kasturi.
-
-For a moment, time stopped.
-
+`
+<p>
 Neither spoke.
-
 Neither moved.
+</p>
 
+<p>
 They simply stared at one another.
+</p>
 
-Arnab felt as though he had known her forever.
+<p>
+Arnab felt he had known her forever.
+Kasturi felt her heart had finally found home.
+</p>
+`,
 
-Kasturi felt as though her heart had finally found home.
-
-Then suddenly—
-
-A tiny baby dragon sneezed.
-
-“Puff!”
-
-Heart-shaped fireballs exploded everywhere.
-
-Both burst into laughter.
-
-And that was how they met.
-
-Days turned into weeks.
-
-Weeks turned into months.
-
+`
+<p>
+Days became weeks.
+Weeks became months.
 Soon they became inseparable.
+</p>
 
-Together they explored magical kingdoms.
+<p>
+Together they explored magical kingdoms,
+rode cloud whales,
+and helped every creature they met.
+</p>
+`,
 
-They rode giant cloud whales.
+`
+<p>
+One evening,
+while watching the sunset,
+they realized something.
+</p>
 
-They raced unicorns across rainbow bridges.
+<p>
+They were deeply,
+truly,
+and endlessly in love.
+</p>
+`,
 
-They built tiny cottages for fairy families.
+`
+<p>
+But deep within the Shadow Mountains lived
+the King of Loneliness.
+</p>
 
-They held competitions to see who could collect the most moonflowers.
-
-Kasturi usually won.
-
-Arnab usually got distracted helping random animals.
-
-One day they discovered a village where all the kittens had forgotten how to purr.
-
-The villagers were worried.
-
-Arnab and Kasturi spent three whole days solving the mystery.
-
-Eventually they discovered a mischievous pumpkin spirit had stolen all the purrs and hidden them inside giant watermelons.
-
-After returning the purrs, the kittens celebrated by covering Arnab and Kasturi in cuddles.
-
-For an entire week they smelled like kittens.
-
-Neither complained.
-
-One evening, while watching the sunset from a floating island, Kasturi looked at Arnab.
-
-“Do you know something?” she asked.
-
-“What?”
-
-“You are very strange.”
-
-Arnab gasped dramatically.
-
-“Strange? Me?”
-
-“Very.”
-
-“How?”
-
-“You stop to rescue every bug.”
-
-“That’s called kindness.”
-
-“You talk to rocks.”
-
-“They have feelings.”
-
-“You once apologized to a tree.”
-
-“It looked upset.”
-
-Kasturi laughed so hard she almost fell off the island.
-
-Arnab quickly caught her.
-
-For a moment they remained close.
-
-The wind carried sakura petals around them.
-
-Tiny stars sparkled above.
-
-And suddenly neither felt like laughing anymore.
-
-Because in that moment both realized something.
-
-They were in love.
-
-Very.
-
-Very.
-
-Very much in love.
-
-But every fairy tale faces a challenge.
-
-Deep within the Shadow Mountains lived the terrifying King of Loneliness.
-
-He fed upon sadness.
-
+<p>
 He hated happiness.
+He hated love.
+</p>
 
-And he especially hated true love.
+<p>
+And he wanted to separate them forever.
+</p>
+`,
 
-When he learned about Arnab and Kasturi, he became furious.
+`
+<p>
+Together Arnab and Kasturi fought through darkness,
+fear,
+and impossible challenges.
+</p>
 
-“If they remain together,” he growled, “their love will create enough light to destroy my kingdom forever.”
+<p>
+At every step they chose one another.
+</p>
+`,
 
-So he stole the Heart Moon Crystal, the source of all magic.
+`
+<p>
+When the King created a wall of darkness
+between them,
+they simply walked forward.
+</p>
 
-Without it, darkness spread across Yumekawa.
-
-Flowers stopped blooming.
-
-Stars disappeared.
-
-The sky turned gray.
-
-Everyone became afraid.
-
-Arnab and Kasturi knew they had to act.
-
-Together they embarked on the most dangerous adventure of their lives.
-
-They crossed the Desert of Forgotten Dreams.
-
-They navigated the Maze of Infinite Mirrors.
-
-They climbed the Mountains of Echoing Hearts.
-
-At every challenge, they helped one another.
-
-When Arnab became tired, Kasturi encouraged him.
-
-When Kasturi became afraid, Arnab held her hand.
-
-When both wanted to give up, they remembered why they were fighting.
-
-For each other.
-
-Finally they reached the Dark Castle.
-
-The King of Loneliness awaited them.
-
-“You cannot defeat me,” he laughed.
-
-“I am stronger than hope.”
-
-Arnab stepped forward.
-
-“No.”
-
-Kasturi stepped beside him.
-
-“You are not.”
-
-The king unleashed waves of darkness.
-
-But Arnab protected Kasturi.
-
-The king summoned storms of fear.
-
-But Kasturi protected Arnab.
-
-The battle continued for hours.
-
-Then the king created his most powerful spell.
-
-A spell designed to separate soulmates forever.
-
-A wall of darkness rose between Arnab and Kasturi.
-
-The king laughed.
-
-“Now you will never reach each other.”
-
-For a moment everything became silent.
-
-Then Kasturi smiled.
-
-Then Arnab smiled.
-
-They both began walking forward.
-
-Straight through the darkness.
-
+<p>
 The wall shattered instantly.
+</p>
 
-Because the spell had one weakness.
+<p>
+Because it could separate bodies,
+but never hearts.
+</p>
+`,
 
-It could separate bodies.
+`
+<p>
+Their love awakened the Heart Moon Crystal.
+</p>
 
-But never hearts.
-
-A brilliant light erupted from them.
-
-Their love awakened the hidden power of the Heart Moon Crystal.
-
-The crystal floated into the sky.
-
-Thousands of stars returned.
-
-Flowers bloomed once more.
-
+<p>
 The darkness vanished.
+Flowers bloomed.
+Stars returned.
+</p>
 
-And the King of Loneliness disappeared forever.
-
+<p>
 The world was saved.
+</p>
+`,
 
-Years later, a magnificent celebration filled Yumekawa.
+`
+<p>
+Years later,
+all of Yumekawa gathered to celebrate.
+</p>
 
-Every creature came.
-
+<p>
 Dragons.
-
 Fairies.
-
-Moon rabbits.
-
-Cloud whales.
-
+Moon Rabbits.
 Phoenixes.
+Cloud Whales.
+</p>
+`,
 
-Even the talking rocks.
+`
+<p>
+Under a sky filled with countless stars,
+Arnab and Kasturi exchanged promises.
+</p>
 
-Especially the talking rocks.
-
-At the center of the celebration stood Arnab and Kasturi.
-
-The Moon Prince and the Koala Queen.
-
-Under a sky filled with countless stars, they exchanged promises.
-
-Not promises of perfection.
-
-Not promises that life would always be easy.
-
-But promises to choose one another every day.
-
+<p>
 To laugh together.
-
 To dream together.
-
 To face every adventure together.
+</p>
+`,
 
-And to remain each other’s home no matter where destiny led them.
+`
+<p>
+And whenever people looked at the night sky,
+they could see two stars shining side by side.
+</p>
 
-The Moon Goddess herself blessed their union.
+<p>
+The Star of Arnab
+and
+The Star of Kasturi.
+</p>
+`,
 
-From that day onward, whenever people looked into the night sky, they could see two special stars shining side by side.
+`
+<div class="ending">
 
-The people called them:
+<h2>❤️ The End ❤️</h2>
 
-The Star of Arnab and The Star of Kasturi.
+<p>
+And their love story continues among the clouds,
+the stars,
+and the endless dreams of eternity.
+</p>
 
-And it is said that whenever those two stars twinkle brightly, somewhere in the magical kingdom of Yumekawa, the Moon Prince is still making silly jokes, the Koala Queen is still laughing at them, and their love story continues among the clouds, the stars, and the endless dreams of eternity.
+<p>
+🌙 ✨ 🐨 🌸 ❤️
+</p>
 
-The End. ❤️🌙✨🩷🐨🌸`;
+</div>
+`
+];
 
-const storyPages = story.split(/\n\n+/).map((paragraph, index) => {
-  if (index === 0) {
-    return `<h2>${paragraph}</h2>`;
-  }
+/* -------------------------
+   PAGE COLLECTION
+-------------------------- */
 
-  return `<p>${paragraph}</p>`;
+const pages = [];
+
+/* Photo Pages */
+
+for (let i = 0; i < images.length; i++) {
+
+  pages.push({
+    type: "photo",
+    image: images[i],
+    quote: quotes[i]
+  });
+
+}
+
+/* Story Pages */
+
+storyPages.forEach(page => {
+
+  pages.push({
+    type: "story",
+    content: page
+  });
+
 });
 
-const pages = [
-  ...images.map((img, index) => ({
-    type: "photo",
-    img,
-    quote: quotes[index]
-  })),
+/* -------------------------
+   DOM ELEMENTS
+-------------------------- */
 
-  ...storyPages.map((html) => ({
-    type: "story",
-    html
-  })),
+const lockedBook =
+document.getElementById("lockedBook");
 
-  {
-    type: "ending"
-  }
-];
+const openBook =
+document.getElementById("openBook");
 
-let current = 0;
-let audioCtx = null;
-let musicTimer = null;
+const passwordInput =
+document.getElementById("password");
 
-const lockedBook = document.getElementById("lockedBook");
-const openBook = document.getElementById("openBook");
-const password = document.getElementById("password");
-const unlockBtn = document.getElementById("unlockBtn");
-const error = document.getElementById("error");
-const page = document.getElementById("page");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-const pageNo = document.getElementById("pageNo");
+const unlockBtn =
+document.getElementById("unlockBtn");
 
-function unlock() {
-  const enteredPassword = password.value.trim().toLowerCase();
+const error =
+document.getElementById("error");
 
-  if (enteredPassword !== PASSWORD) {
-    error.textContent = "Wrong answer, my love. Try again.";
+const pageContainer =
+document.getElementById("page");
+
+const prevBtn =
+document.getElementById("prevBtn");
+
+const nextBtn =
+document.getElementById("nextBtn");
+
+const pageNo =
+document.getElementById("pageNo");
+
+/* -------------------------
+   PAGE STATE
+-------------------------- */
+
+let currentPage = 0;
+
+/* -------------------------
+   MUSIC
+-------------------------- */
+
+let music;
+
+function startMusic() {
+
+  if (music) return;
+
+  music = new Audio(
+    "assets/romantic-music.mp3"
+  );
+
+  music.loop = true;
+
+  music.volume = 0.4;
+
+  music.play().catch(() => {
+    console.log("Music blocked");
+  });
+
+}
+
+/* -------------------------
+   PASSWORD
+-------------------------- */
+
+function unlockBook() {
+
+  const value =
+    passwordInput.value
+      .trim()
+      .toLowerCase();
+
+  if (value !== PASSWORD) {
+
+    error.textContent =
+      "Wrong Answer ❤️";
+
     return;
+
   }
 
   lockedBook.classList.add("hidden");
+
   openBook.classList.remove("hidden");
 
   startMusic();
+
   renderPage();
+
 }
 
-function startMusic() {
-  if (audioCtx) return;
-
-  audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-
-  const master = audioCtx.createGain();
-  master.gain.value = 0.045;
-  master.connect(audioCtx.destination);
-
-  const scale = [
-    261.63,
-    329.63,
-    392.0,
-    523.25,
-    440.0,
-    349.23,
-    392.0,
-    329.63
-  ];
-
-  let step = 0;
-
-  function playNote() {
-    const now = audioCtx.currentTime;
-
-    const osc = audioCtx.createOscillator();
-    const gain = audioCtx.createGain();
-
-    osc.type = "sine";
-    osc.frequency.value = scale[step % scale.length];
-
-    gain.gain.setValueAtTime(0, now);
-    gain.gain.linearRampToValueAtTime(0.55, now + 0.05);
-    gain.gain.exponentialRampToValueAtTime(0.001, now + 1.15);
-
-    osc.connect(gain).connect(master);
-
-    osc.start(now);
-    osc.stop(now + 1.2);
-
-    step++;
-  }
-
-  playNote();
-  musicTimer = setInterval(playNote, 600);
-}
+/* -------------------------
+   RENDER PAGE
+-------------------------- */
 
 function renderPage() {
-  const selectedPage = pages[current];
 
-  page.className = "page";
+  const pageData =
+    pages[currentPage];
 
-  if (selectedPage.type === "photo") {
-    page.innerHTML = `
+  if (pageData.type === "photo") {
+
+    pageContainer.innerHTML = `
       <div class="photo-card">
-        <img src="assets/${selectedPage.img}" alt="Kasturi memory ${current + 1}">
-        <div class="quote">${selectedPage.quote}</div>
+        <img
+          src="assets/${pageData.image}"
+          alt="Photo"
+        >
+
+        <div class="quote">
+          ${pageData.quote}
+        </div>
       </div>
     `;
+
   }
 
-  if (selectedPage.type === "story") {
-    page.classList.add("story");
-    page.innerHTML = selectedPage.html;
-  }
+  if (pageData.type === "story") {
 
-  if (selectedPage.type === "ending") {
-    page.classList.add("ending");
-    page.innerHTML = `
-      <div>
-        <h2>Forever Yours</h2>
-        <p>The book may end, but Arnab and Kasturi continue in every moonlit dream.</p>
-        <div class="hearts">❤️ 🌙 🐨 🌸 ✨</div>
+    pageContainer.innerHTML = `
+      <div class="story">
+        ${pageData.content}
       </div>
     `;
+
   }
 
-  prevBtn.disabled = current === 0;
-  nextBtn.disabled = current === pages.length - 1;
-  pageNo.textContent = `Page ${current + 1} of ${pages.length}`;
+  pageNo.textContent =
+    "Page " +
+    (currentPage + 1) +
+    " of " +
+    pages.length;
+
+  prevBtn.disabled =
+    currentPage === 0;
+
+  nextBtn.disabled =
+    currentPage === pages.length - 1;
+
 }
 
-unlockBtn.addEventListener("click", unlock);
+/* -------------------------
+   BUTTON EVENTS
+-------------------------- */
 
-password.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") {
-    unlock();
-  }
-});
+unlockBtn.addEventListener(
+  "click",
+  unlockBook
+);
 
-prevBtn.addEventListener("click", () => {
-  if (current > 0) {
-    current--;
-    renderPage();
-  }
-});
+passwordInput.addEventListener(
+  "keydown",
+  function (e) {
 
-nextBtn.addEventListener("click", () => {
-  if (current < pages.length - 1) {
-    current++;
-    renderPage();
+    if (e.key === "Enter") {
+
+      unlockBook();
+
+    }
+
   }
-});
+);
+
+nextBtn.addEventListener(
+  "click",
+  function () {
+
+    if (
+      currentPage <
+      pages.length - 1
+    ) {
+
+      currentPage++;
+
+      renderPage();
+
+    }
+
+  }
+);
+
+prevBtn.addEventListener(
+  "click",
+  function () {
+
+    if (
+      currentPage > 0
+    ) {
+
+      currentPage--;
+
+      renderPage();
+
+    }
+
+  }
+);
+
+/* -------------------------
+   KEYBOARD NAVIGATION
+-------------------------- */
+
+document.addEventListener(
+  "keydown",
+  function (e) {
+
+    if (
+      openBook.classList.contains(
+        "hidden"
+      )
+    ) {
+      return;
+    }
+
+    if (e.key === "ArrowRight") {
+
+      if (
+        currentPage <
+        pages.length - 1
+      ) {
+
+        currentPage++;
+
+        renderPage();
+
+      }
+
+    }
+
+    if (e.key === "ArrowLeft") {
+
+      if (
+        currentPage > 0
+      ) {
+
+        currentPage--;
+
+        renderPage();
+
+      }
+
+    }
+
+  }
+);
